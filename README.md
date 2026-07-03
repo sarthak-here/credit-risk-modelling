@@ -1,4 +1,4 @@
-# Credit Risk Modelling — Lauki Finance
+# Credit Risk Modelling — CredIQ Finance
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.22-FF4B4B?logo=streamlit&logoColor=white)
@@ -7,7 +7,7 @@
 ![Optuna](https://img.shields.io/badge/Optuna-3.x-6C63FF)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-An end-to-end credit risk prediction system for **Lauki Finance** that estimates the probability of loan default, maps it to a credit score (300–900), and assigns a risk rating. Built on 50,000 customer records across three data sources, the final Logistic Regression model achieves **AUC = 0.98** and **Gini = 0.96**.
+An end-to-end credit risk prediction system for **CredIQ Finance** that estimates the probability of loan default, maps it to a credit score (300–900), and assigns a risk rating. Built on 50,000 customer records across three data sources, the final Logistic Regression model achieves **AUC = 0.98** and **Gini = 0.96**.
 
 ---
 
